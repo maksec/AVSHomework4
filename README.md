@@ -31,30 +31,35 @@ Olga
 
 Пример выходных данных:
 
-Olga
+`Olga
+
     Variant number: 20
-    Student`s answer: 4
-    Student`s mark: 3
+    Students answer: 4
+    Students mark: 3
 
 Max
+
     Variant number: 24
-    Student`s answer: 1
-    Student`s mark: 1
+    Students answer: 1
+    Students mark: 1
 
 Victor
+
     Variant number: 13
-    Student`s answer: 4
-    Student`s mark: 4
+    Students answer: 4
+    Students mark: 4
 
 Nikita
+
     Variant number: 50
-    Student`s answer: 4
-    Student`s mark: 5
+    Students answer: 4
+    Students mark: 5
 
 Andrey
+
     Variant number: 6
-    Student`s answer: 4
-    Student`s mark: 5
+    Students answer: 4
+    Students mark: 5`
 
 Были добавлены комментарии к программе описывающие полные действия.
 
