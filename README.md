@@ -31,7 +31,7 @@ Olga
 
 Пример выходных данных:
 
-`Olga
+Olga
 
     Variant number: 20
     Students answer: 4
@@ -59,7 +59,7 @@ Andrey
 
     Variant number: 6
     Students answer: 4
-    Students mark: 5`
+    Students mark: 5
 
 Были добавлены комментарии к программе описывающие полные действия.
 
